@@ -1,10 +1,11 @@
-Diseño mecatronico(update)﻿
+﻿Diseño mecatronico(update)﻿
  
  # Información de contacto
 
-* Nombre:Alejando 
+* Nombre:Sánchez Alejandro 
 * Edad:23 
 * Telefóno: 55687903
-* Ciudad: México 
-* Colonia: Rincón del Pedregal 
-* Delegación: Tlalpan 
+* Ciudad: Ecatepec
+* Colonia: colonia 
+* Delegación: No hay delegaciones 
+
