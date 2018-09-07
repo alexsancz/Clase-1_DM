@@ -1,5 +1,5 @@
-#Información de contacto
+# Información de contacto
 
-*Nombre:
-*Edad:
-*Telefóno: 
+* Nombre:
+* Edad:
+* Telefóno: 
